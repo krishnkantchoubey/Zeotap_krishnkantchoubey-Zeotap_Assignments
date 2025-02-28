@@ -1,9 +1,9 @@
 <h1>📝 Assignment 1:</h1>
-Web Application Mimicking Google Sheets
-🎯 Objective
+<h2>Web Application Mimicking Google Sheets</h2>
+<h1>🎯 Objective</h1>
 The goal of this project is to develop a web application that closely resembles Google Sheets, focusing on its user interface and core functionalities, such as data entry, mathematical operations, data validation, and UI interactions.
 
-🚀 Features
+<h1>🚀 Features</h1>
 📊 Spreadsheet Interface
 ✔ Google Sheets-like UI – Implements a familiar spreadsheet layout with a toolbar, formula bar, and structured cells.
 ✔ Drag & Drop Support – Enables moving formulas, cell content, and selections dynamically.
@@ -11,7 +11,7 @@ The goal of this project is to develop a web application that closely resembles 
 ✔ Cell Formatting – Supports bold, italics, font size, and color formatting.
 ✔ Row & Column Management – Allows adding, deleting, and resizing rows and columns.
 
-🔢 Mathematical Functions
+<h1>🔢 Mathematical Functions</h1>
 Supports essential spreadsheet functions:
 ✅ SUM(range) – Returns the sum of selected cells.
 ✅ AVERAGE(range) – Calculates the average of selected cells.
@@ -19,7 +19,7 @@ Supports essential spreadsheet functions:
 ✅ MIN(range) – Finds the minimum value in a range.
 ✅ COUNT(range) – Counts numerical values in a range.
 
-🛠 Data Quality Functions
+<h1>🛠 Data Quality Functions</h1>
 Ensures data consistency with:
 ✔ TRIM(text) – Removes leading/trailing spaces.
 ✔ UPPER(text) – Converts text to uppercase.
@@ -27,7 +27,7 @@ Ensures data consistency with:
 ✔ REMOVE_DUPLICATES(range) – Eliminates duplicate rows.
 ✔ FIND_AND_REPLACE(find, replace, range) – Finds and replaces text within a range.
 
-🖊 Data Entry & Validation
+<h1>🖊 Data Entry & Validation</h1>
 ✔ Supports various data types (numbers, text, dates).
 ✔ Implements basic data validation (e.g., restricting numeric cells to numbers only).
 
@@ -37,16 +37,4 @@ Ensures data consistency with:
 💡 Save & load spreadsheets functionality.
 💡 Data visualization using charts & graphs.
 
-📌 Evaluation Criteria
-UI Fidelity – How closely the UI mimics Google Sheets.
-Functionality – Accuracy and completeness of implemented features.
-Usability – User-friendly, intuitive design.
-Code Quality – Clean, maintainable, and scalable code.
-Bonus Features – Additional enhancements for a better user experience.
-🏗 Tech Stack & Data Structures
-Frontend: HTML, CSS, JavaScript (React.js)
-Backend (Optional): Node.js with Express
-Data Storage: Local Storage / IndexedDB (for saving spreadsheets)
-Data Structures Used:
-2D Arrays – For storing spreadsheet data.
-HashMaps – For optimized cell referencing.
+
